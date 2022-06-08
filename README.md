@@ -37,6 +37,7 @@
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/kerminator-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://t.me/juicy_brained_guy" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 </p>
 
 ------------
