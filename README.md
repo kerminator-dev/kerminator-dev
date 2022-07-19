@@ -37,7 +37,6 @@
       <td><a href="https://github.com/kerminator-dev/CollectionViewer"><b>CollectionViewer</b></a></td>
       <td>Программа для вывода коллекций данных в виде отформатированой таблицы</td>
     </tr>
-
      <tr>
       <td><a href="https://github.com/kerminator-dev/Transitions"><b>Transitions</b></a></td>
       <td>Библиотека классов для создания анимаций в Windows Forms с популярными easing-функциями</td>
