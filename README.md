@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/kerminator-dev/CollectionViewer"><b>CollectionViewer</b></a></td>
-      <td>Программа для вывода коллекций данных в виде отформатированой таблицы</td>
+      <td>Библиотека классов для вывода коллекций данных в виде отформатированых текстовых таблиц</td>
     </tr>
      <tr>
       <td><a href="https://github.com/kerminator-dev/Transitions"><b>Transitions</b></a></td>
@@ -48,6 +48,34 @@
     	<tr>
       <td><a href="https://github.com/kerminator-dev/Image-Converter"><b>Image Converter</b></a></td>
       <td>Конвертер изображений</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Список проектов, выполненных по видеоурокам</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Проект</b></td>
+      <td><b>📚 Краткое описание</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/kerminator-dev/MVVM-Corona"><b>Сorona Client</b></a></td>
+      <td>Приложение для вывода статистики, получаемой от Corona API</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kerminator-dev/MVVM-Reservoom"><b>Сorona Client</b></a></td>
+      <td>Приложение для бронирования комнат в отеле</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kerminator-dev/ToDoApp"><b>ToDo app</b></a></td>
+      <td>Задачник</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kerminator-dev/MovieApp"><b>MovieApp</b></a></td>
+      <td>Библиотека фильмов</td>
     </tr>
   </tbody>
 </table>
