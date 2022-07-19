@@ -9,7 +9,7 @@
 <img alt="sqlserver" src="https://img.shields.io/badge/-sql_server-13aa52?style=flat-square&logo=sqlserver&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-mysql-2088FF?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="sap" src="https://img.shields.io/badge/-SAP_ABAP_/_4-F9A03C?style=flat-square&logo=sap&logoColor=white" />
-<img alt="foxpro" src="https://img.shields.io/badge/-Visua_FoxPro-F05032?style=flat-square&logo=foxpro&logoColor=white" />
+<img alt="foxpro" src="https://img.shields.io/badge/-Visual_FoxPro-F05032?style=flat-square&logo=foxpro&logoColor=white" />
 </p>
 <h3>Список моих проектов</h3>
 <table>
@@ -79,6 +79,8 @@
     </tr>
   </tbody>
 </table>
+
+<a href="https://github.com/qlulp">Мой старый GitHub аккаунт.</a>
 
 <h3>Связь</h3>
 <p><a href="https://github.com/kerminator-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
