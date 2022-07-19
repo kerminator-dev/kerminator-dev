@@ -66,7 +66,7 @@
       <td>Приложение для вывода статистики, получаемой от Corona API</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kerminator-dev/MVVM-Reservoom"><b>Сorona Client</b></a></td>
+      <td><a href="https://github.com/kerminator-dev/MVVM-Reservoom"><b>Reservoom</b></a></td>
       <td>Приложение для бронирования комнат в отеле</td>
     </tr>
     <tr>
