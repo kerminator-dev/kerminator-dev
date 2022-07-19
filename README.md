@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm Nikita, junior .NET and SAP developer from <b>Krasnoperekopsk, Russia</b> <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/512/Russia-icon.png" width="13"/>  </p>
+<p>Welcome to my page! <br> I'm Nikita, junior .NET and SAP developer from <b>Russia</b> <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/512/Russia-icon.png" width="13"/>  </p>
 <h3>Things I code with</h3>
 <p>
 <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-B7178C?style=flat-square&logo=CSharp&logoColor=white" />
@@ -15,22 +15,40 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Project</b></td>
-      <td><b>📚 Desription</b></td>
+      <td><b>🎁 Проект</b></td>
+      <td><b>📚 Краткое описание</b></td>
+      <td><b>📅 Дата написания</b></td>
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://github.com/kerminator-dev/Encoder"><b>Encoder</b></a></td>
+      <td>Декодер текста</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/kerminator-dev/NotesApp"><b>Notes app</b></a></td>
-      <td></td>
+      <td>Заметки</td>
     </tr>
-	    <tr>
+    <tr>
       <td><a href="https://github.com/kerminator-dev/WeatherWidget"><b>Weather widget</b></a></td>
-      <td></td>
+      <td>Виджет погоды</td>
     </tr>
-	<tr>
+    <tr>
+      <td><a href="https://github.com/kerminator-dev/CollectionViewer"><b>CollectionViewer</b></a></td>
+      <td>Программа для вывода коллекций данных в виде отформатированой таблицы</td>
+    </tr>
+
+     <tr>
+      <td><a href="https://github.com/kerminator-dev/Transitions"><b>Transitions</b></a></td>
+      <td>Библиотека классов для создания анимаций в Windows Forms с популярными easing-функциями</td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/kerminator-dev/Telegram-Mailer"><b>Telegram mailer</b></a></td>
+      <td>Telegram-рассыльщик для бота</td>
+    </tr>
+    	<tr>
       <td><a href="https://github.com/kerminator-dev/Image-Converter"><b>Image Converter</b></a></td>
-      <td></td>
+      <td>Конвертер изображений</td>
     </tr>
   </tbody>
 </table>
