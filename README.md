@@ -11,7 +11,7 @@
 <img alt="sap" src="https://img.shields.io/badge/-SAP_ABAP_/_4-F9A03C?style=flat-square&logo=sap&logoColor=white" />
 <img alt="foxpro" src="https://img.shields.io/badge/-Visua_FoxPro-F05032?style=flat-square&logo=foxpro&logoColor=white" />
 </p>
-<h3>My projects list</h3>
+<h3>Список моих проектов</h3>
 <table>
   <thead align="center">
     <tr border: none;>
