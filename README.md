@@ -17,7 +17,6 @@
     <tr border: none;>
       <td><b>🎁 Проект</b></td>
       <td><b>📚 Краткое описание</b></td>
-      <td><b>📅 Дата написания</b></td>
     </tr>
   </thead>
   <tbody>
