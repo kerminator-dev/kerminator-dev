@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Привет</h1>
 
-<p>Добро пожаловать! <br> Я Никита, junior .NET и SAP разработчик из <b>России</b> <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/512/Russia-icon.png" width="13"/>  </p>
-<h3>С чем я имею дело</h3>
+<p><br> Я Никита, junior .NET и SAP разработчик из <b>России</b> <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/512/Russia-icon.png" width="13"/>  </p>
+<h3>С чем имею дело</h3>
 <p>
 <img alt="CSharp" src="https://img.shields.io/badge/-CSharp-B7178C?style=flat-square&logo=CSharp&logoColor=white" />
 <img alt="xaml" src="https://img.shields.io/badge/-xaml-430098?style=flat-square&logo=xaml&logoColor=white" />
@@ -79,7 +79,7 @@
   </tbody>
 </table>
 
-<a href="https://github.com/qlulp">Мой старый GitHub аккаунт.</a>
+<a href="https://github.com/qlulp">Мой старый GitHub профиль.</a>
 
 <h3>Связь</h3>
 <p><a href="https://github.com/kerminator-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
