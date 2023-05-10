@@ -34,7 +34,7 @@
 | <a href="https://github.com/kerminator-dev/NotesApp">Notes</a> | Заметки | WPF, MVVM, Entity Framework |
 | <a href="https://github.com/kerminator-dev/Country-Info">Country Info Web API</a> | Web API сервис для получения данных о странах и городах (изучение ASP .NET Web API) | ASP .NET Web API, Entity Framework, full-stack, Class Library |
 | <a href="https://github.com/kerminator-dev/WeatherWidget">Weather Widget</a> | Виджет погоды (OpenWeatherMap) | WPF, MVVM, работа с API-сервисом |
-| <a href="https://github.com/kerminator-dev/Image-Converter">Image Converter</a> | Конвертер изображений в разные расширения + возможность изменения ширины/высоты/пропорций | Windows Forms |
+| <a href="https://github.com/kerminator-dev/Image-Converter">Image Converter</a> | Конвертер изображений в разные расширения + возможность изменения ширины/высоты/пропорций изображений | Windows Forms |
 | <a href="https://github.com/kerminator-dev/Transitions">Windows Forms Transitions</a> | Библиотека классов для создания плавных анимаций в Windows Forms | Windows Forms, Class Library |
 
 
