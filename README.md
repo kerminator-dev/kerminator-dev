@@ -32,10 +32,10 @@
 | <a href="https://github.com/kerminator-dev/Simple-Chat">Chat</a> | Приложение для обмена сообщениями (Сервер + клиент) | WPF client, MVVM, ASP .NET Web API, Entity Framework, BCrypt, JWT, SignalR, full-stack |
 | <a href="https://github.com/kerminator-dev/Encoder">Text Encoder</a> | Декодер текста | WPF, MVVM, WinUI framework |
 | <a href="https://github.com/kerminator-dev/NotesApp">Notes</a> | Заметки | WPF, MVVM, Entity Framework |
-| <a href="https://github.com/kerminator-dev/Country-Info">Country Info Web API</a> | Web API сервис для получения данных о странах и городах (изучение ASP .NET Web API) | ASP .NET Web API, Entity Framework, full-stack |
+| <a href="https://github.com/kerminator-dev/Country-Info">Country Info Web API</a> | Web API сервис для получения данных о странах и городах (изучение ASP .NET Web API) | ASP .NET Web API, Entity Framework, full-stack, Class Library |
 | <a href="https://github.com/kerminator-dev/WeatherWidget">Weather Widget</a> | Виджет погоды (OpenWeatherMap) | WPF, MVVM, работа с API-сервисом |
 | <a href="https://github.com/kerminator-dev/Image-Converter">Image Converter</a> | Конвертер изображений в разные расширения + возможность изменения ширины/высоты/пропорций | Windows Forms |
-| <a href="https://github.com/kerminator-dev/Transitions">Windows Forms Transitions</a> | Библиотека классов для создания плавных анимаций в Windows Forms | Windows Forms, Library |
+| <a href="https://github.com/kerminator-dev/Transitions">Windows Forms Transitions</a> | Библиотека классов для создания плавных анимаций в Windows Forms | Windows Forms, Class Library |
 
 
 
