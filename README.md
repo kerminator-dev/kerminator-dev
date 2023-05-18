@@ -29,7 +29,7 @@
 ## Список моих некоторых пет-проектов (от новых к старым):
 | Проект | Описание | Примечания |
 | --- | --- | --- |
-| <a href="https://github.com/kerminator-dev/FluentHttpToolkit">Fluent Http Toolkit</a> | библиотека с Fluent-интерфейсом для построения HTTP-запросов и обработки HTTP-ответов в .NET | Class Library |
+| <a href="https://github.com/kerminator-dev/FluentHttpToolkit">Fluent Http Toolkit</a> | Библиотека с Fluent-интерфейсом для построения HTTP-запросов и обработки HTTP-ответов в .NET | Class Library |
 | <a href="https://github.com/kerminator-dev/Simple-Chat">Chat</a> | Приложение для обмена сообщениями (Сервер + клиент) | WPF client, MVVM, ASP .NET Web API, Entity Framework, BCrypt, JWT, SignalR, full-stack, Client Class Library |
 | <a href="https://github.com/kerminator-dev/Encoder">Text Encoder</a> | Декодер текста | WPF, MVVM, WinUI framework |
 | <a href="https://github.com/kerminator-dev/NotesApp">Notes</a> | Заметки | WPF, MVVM, Entity Framework |
