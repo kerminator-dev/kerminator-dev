@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | <a href="https://github.com/kerminator-dev/Encoder">Text Encoder</a> | Декодер текста | WPF, MVVM, WinUI framework |
 | <a href="https://github.com/kerminator-dev/Country-Info">Country Info Web API</a> | Web API сервис для получения данных о странах и городах (изучение ASP .NET Web API) | ASP .NET Web API, Entity Framework, full-stack, Client Class Library |
-| <a href="https://github.com/kerminator-dev/FluentHttp">Fluent Http Toolkit</a> | Библиотека с Fluent-интерфейсом для построения HTTP-запросов и обработки HTTP-ответов в .NET | Class Library |
+| <a href="https://github.com/kerminator-dev/FluentHttp">Fluent Http</a> | Библиотека с Fluent-интерфейсом для построения HTTP-запросов и обработки HTTP-ответов в .NET | Class Library |
 | <a href="https://github.com/kerminator-dev/Simple-Chat">Chat</a> | Приложение для обмена сообщениями (Сервер + клиент) | WPF client, MVVM, ASP .NET Web API, Entity Framework, BCrypt, JWT, SignalR, full-stack, Client Class Library |
 | <a href="https://github.com/kerminator-dev/NotesApp">Notes</a> | Заметки | WPF, MVVM, Entity Framework |
 | <a href="https://github.com/kerminator-dev/WeatherWidget">Weather Widget</a> | Виджет погоды (OpenWeatherMap) | WPF, MVVM, работа с API-сервисом |
