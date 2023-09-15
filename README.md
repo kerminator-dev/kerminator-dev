@@ -14,6 +14,9 @@
 - SignalR (бэкенд + .NET клиент);
 - СУБД MS Access, SQLite, MS SQL Server;
 - SQL;
+- JWT;
+- AutoMapper;
+- MediatR;
 - ADO.NET;
 - ORM Entity Framework;
 - знаком с основами C++;
